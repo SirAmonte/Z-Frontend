@@ -1,0 +1,7 @@
+{
+  "name": "WM-Z-Project",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
